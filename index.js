@@ -19,6 +19,6 @@ function dec(n) {
 function makeInt(n) {
   return parseInt('n', 10)
 }
-function makeInt(n) {
-  return parseInt('NaN', 10)
+function makeInt(NaN) {
+  return parseInt('n', 10)
 }
